@@ -41,5 +41,15 @@ Suggestions for further improving accuracy and model performance include:
 - Implementation of ensemble learning for improved generalization
 - Continuous monitoring and fine-tuning of the model based on real-world feedback
 
+## References
+- Ultralytics YOLO v8 (model training and prediction)
+https://docs.ultralytics.com/usage/python/#val
+- Makesense.ai (for annotating/ labelling collected data)
+https://www.makesense.ai/
+- Open-CV (Geeks for Geeks)
+https://www.geeksforgeeks.org/python-opencv-cv2-rectangle-method/?ref=lbp
+- Youtube (for general understanding of concepts)
+https://www.youtube.com/@dswithbappy
+
 ## Contact
 For any questions, suggestions, or inquiries related to the project, please contact @bansalgul @rastogi17
