@@ -26,13 +26,20 @@ The training process involves training the YOLOv8 model on the custom dataset. D
 ## Model Evaluation
 Trained models are evaluated based on performance metrics such as precision, recall, and mean average precision (mAP). The best-performing model is selected based on evaluation results and further validated on a test dataset containing unseen images. Additionally, the model's performance is tested on random videos collected from nearby areas to assess its real-world applicability.
 
+Conf Matrix
+
+<img width="400" alt="image" src="https://github.com/bansalgul/traffic-sign-detection/assets/146025595/be637a2f-13cb-4287-9c12-ca13cd915eb4">
+
+Metrics
+
+<img width="400" alt="image" src="https://github.com/bansalgul/traffic-sign-detection/assets/146025595/4a95d6e3-bb20-4a38-b9ae-909fffbbb96e">
+
 
 ## Results
 The results obtained from model predictions are analyzed and compared, highlighting improvements achieved through data augmentation and model training. Visualizations of model predictions on test data and videos are provided to demonstrate the model's effectiveness in detecting traffic signs.
 
-![image](https://github.com/bansalgul/traffic-sign-detection/assets/146025595/8c68374e-c94b-4c3d-b2c8-78c882c67bcb)
-
-![image0](https://github.com/bansalgul/traffic-sign-detection/assets/146025595/4d6c9d85-d773-4f00-ac51-283309f139d2)
+<img width="500" height = "350" alt="image" src="https://github.com/bansalgul/traffic-sign-detection/assets/146025595/6b3ddc53-d09c-4c93-9cc8-041f3118842d">
+<img width="500" height = "350" alt="image" src="https://github.com/bansalgul/traffic-sign-detection/assets/146025595/de9461b1-41e5-4055-b648-a5348b70da2a">
 
 ## Future Enhancements
 Suggestions for further improving accuracy and model performance include:
